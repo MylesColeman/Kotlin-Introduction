@@ -48,15 +48,12 @@ fun calculateTest(){
     val intOne = 1
     val intTwo = 5
     
-    val floatOne = 1f
-    val floatTwo = 5f
-    
     println(intOne + intTwo) // Addition
     println(intOne - intTwo) // Subtraction
     println(intOne * intTwo) // Multiplication
     println(intOne / intTwo) // Division
     
-    println(floatOne / floatTwo) // Float division
+    println(intOne % intTwo) // Modulus
 }
 
 fun stringModTest(){
