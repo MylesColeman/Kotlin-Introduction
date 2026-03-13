@@ -1,4 +1,4 @@
-# Kotlin Fundamentals (WIP)
+# Kotlin Fundamentals
 This repository documents my initial transition into **Kotlin**, starting with foundational exercises in the Kotlin Playground as part of the **Mobile and Multiplayer** module at **Teesside University**.
 
 ## Key Highlights
